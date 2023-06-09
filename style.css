@@ -120,15 +120,7 @@ h1{
   margin: auto;
   padding-bottom: 50px;
 }
-move{
-position: relative;
-animation: mymove 10s infinite;
-}
 
-@keyframes mymove {
-from {left: 0px;}
-to {left:100%;}
-}
 
 .container,
 .wrapper {
